@@ -1,0 +1,33 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "John Doe",
+      "email": "john.doe@example.com",
+      "isActive": false
+    },
+    {
+      "id": "2",
+      "name": "Jane Doe",
+      "email": "jane.doe@example.com",
+      "isActive": false
+    },
+    {
+      "id": "3",
+      "name": "John Smith",
+      "email": "john.smith@example.com"
+    },
+    {
+      "id": "4e38",
+      "name": "Test",
+      "email": "create@user.com",
+      "isActive": true
+    },
+    {
+      "id": "c3ea",
+      "name": "adsfsa",
+      "email": "john.doe@example.com",
+      "isActive": false
+    }
+  ]
+}
